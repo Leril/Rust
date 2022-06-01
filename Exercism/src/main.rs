@@ -1,5 +1,9 @@
-mod run_length_encoding;
-mod all_your_base;
+mod simple_linked_list;
+
+
+
+mod bowling;
+mod beer_song;
 
 fn main() {
     println!("Hello, world!");
